@@ -1,2 +1,2 @@
 # Mortgage-Calculator
-A terminal mortgage calculator built Java
+A terminal mortgage calculator built with Java
